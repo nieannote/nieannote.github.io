@@ -144,103 +144,103 @@ tags:
 ## 旅途中的风景
 
 [甘肃西部的戈壁滩，刚下过雪]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/0929.01.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/0929.01.png)
 
 [同行的小伙伴之一。2006年在大学相识，从此开启了好基友之旅]
-![on.the.train.west.companies.hongbo](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/0929.02.png)
+![on.the.train.west.companies.hongbo](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/0929.02.png)
 
 [禾木村景区，小河和木屋]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1001.01.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1001.01.png)
 
 [禾木村景区，跨河铁桥]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1001.02.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1001.02.png)
 
 [禾木村景区，从山腰上俯视小河]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1001.03.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1001.03.png)
 
 [禾木村景区，小山腰上的草原]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1001.04.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1001.04.png)
 
 [禾木村景区，早晨，上山的台阶上]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.01.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.01.png)
 
 [禾木村景区，早晨，禾木晨雾，手机直拍、像素太低了，汗]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.02.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.02.png)
 
 [禾木村景区，早晨，再来一张草原照]
-![on.the.train.west](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.03.png)
+![on.the.train.west](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.03.png)
 
 [喀纳斯景区，下午的卧龙湾]
-![kanas.wolongwan](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.04.png)
+![kanas.wolongwan](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.04.png)
 
 [喀纳斯景区，下午的双桥]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.05.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.05.png)
 
 [喀纳斯景区，我的位置]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.06.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.06.png)
 
 [喀纳斯景区，宁静的黄昏，夕阳]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1002.07.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1002.07.png)
 
 [喀纳斯景区，清晨，我们住的哈萨克牧民毡房]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.01.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.01.png)
 
 [喀纳斯景区，上午，阴沉沉的天，上坡上俯视月亮湾]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.02.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.02.png)
 
 [喀纳斯景区，上午，近距离接触月亮湾]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.03.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.03.png)
 
 [喀纳斯景区，上午，卧龙湾的沿岸]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.04.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.04.png)
 
 [喀纳斯景区，下午，细雨中的喀纳斯湖]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.05.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.05.png)
 
 [喀纳斯景区，下午，喀纳斯湖黑云压城]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1003.06.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1003.06.png)
 
 [喀纳斯景区，大清早，木屋客栈]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.01.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.01.png)
 
 [白哈巴村，中哈边境，五号界碑]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.03.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.03.png)
 
 [白哈巴村，中哈边境，五号界碑旁边的哈巴河]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.02.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.02.png)
 
 [白哈巴村，鸟瞰白哈巴村]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.04.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.04.png)
 
 [白哈巴村，中哈边境大峡谷]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.05.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.05.png)
 
 [白哈巴村，白哈巴国家地质公园]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1004.06.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1004.06.png)
 
 [布尔津县，宾馆前的小公园，这里已经是深秋了]
-![kanas.bridges](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1005.01.png)
+![kanas.bridges](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1005.01.png)
 
 [乌鲁木齐，天山天池]
-![tianshan.tianchi](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1006.01.png)
+![tianshan.tianchi](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1006.01.png)
 
 [乌鲁木齐，从天山顶俯瞰天池]
-![tianshan,tianshan](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1006.04.png)
+![tianshan,tianshan](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1006.04.png)
 
 [乌鲁木齐，天山的一个顶峰]
-![tianshan,tianshan](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1006.02.png)
+![tianshan,tianshan](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1006.02.png)
 
 [乌鲁木齐，天山顶峰的阴面]
-![tianshan,tianshan](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1006.05.png)
+![tianshan,tianshan](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1006.05.png)
 
 [乌鲁木齐，新疆博物馆]
-![tianshan,tianshan](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/1007.01.png)
+![tianshan,tianshan](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/1007.01.png)
 
 
 ## 鸣谢
 在旅行的路上，我收获了期盼已久的爱情。感谢新疆，感谢同行的小伙伴们!!
 
-![companies](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20151012/companies.2.png)
+![companies](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20151012/companies.2.png)
 
 
 

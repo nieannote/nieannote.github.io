@@ -6,7 +6,7 @@ tags:
   - book
 ---
 
-![shanyin.jpg](https://gitcafe.com/niean/niean/raw/gitcafe-pages/images/20160221/shanyin_frontpage.jpg)
+![shanyin.jpg](https://raw.githubusercontent.com/nieannote/nieannote.github.io/master/images/20160221/shanyin_frontpage.jpg)
 
 《山音》是日本作家川端康成的代表作之一。2016年春节前后的一个月，读完了这本书，并奉上我的第一篇读书笔记。
 

@@ -1,0 +1,8 @@
+markdown: redcarpet
+author: niean
+name: "田园木竹"
+
+safe: true
+permalink: /:year/:month/:day/:title
+url: http://note.niean.name
+paginate: 16

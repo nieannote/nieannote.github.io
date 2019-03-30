@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 个人成长历程的总结和思考
+title: 个人成长的总结和思考
 date: 2019-03-23 10:00
 tags:
   - thoughts

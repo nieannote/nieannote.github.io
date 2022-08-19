@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读书笔记之《俞军产品方法论》
-date: 2022-08-20 21:00
+date: 2022-08-19 18:15
 tags:
   - thoughts
 ---

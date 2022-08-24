@@ -3,7 +3,7 @@ layout: post
 title: Golang闭包问题之小结
 date: 2016-02-03 18:00
 tags:
-  - golang
+  - go
   - closure
 ---
 

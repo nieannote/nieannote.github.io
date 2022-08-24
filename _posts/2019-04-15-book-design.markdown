@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 读书笔记之《认知与设计》
+title: 产品设计之《认知与设计》
 date: 2019-04-15 10:00
 tags:
+  - pm
   - thoughts
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: first note
 date: 2015-07-27 11:10
 tags:
+    - first
 ---
 
 在github上新建博客, 用于记录小的学习体会. 系统性的经验总结、设计思路等, 记录在github的[page](http://blog.niean.name)上.

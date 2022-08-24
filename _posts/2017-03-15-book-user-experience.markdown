@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 读书笔记之《用户体验要素》
+title: 产品设计之《用户体验要素》
 date: 2017-03-15 23:50
 tags:
+  - pm
   - book
 ---
 

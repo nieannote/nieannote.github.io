@@ -4,6 +4,7 @@ title: 监控系统Falcon开机启动设置
 date: 2015-09-21 13:00
 tags:
   - falcon
+  - tools
 ---
 
 为Falcon添加开机启动设置，步骤为：

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 将夜中的世界架构
+title: 读书笔记之《将夜》
 date: 2019-03-05 11:00
 tags:
   - book

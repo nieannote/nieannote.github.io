@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 《赵成的运维体系管理课》延伸思考
+title: 读书笔记之《赵成的运维体系管理课》
 date: 2022-04-15 22:00
 tags:
+  - op
+  - arch
   - theory
 ---
 

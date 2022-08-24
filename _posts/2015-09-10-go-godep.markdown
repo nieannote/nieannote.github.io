@@ -3,7 +3,7 @@ layout: post
 title: Golang依赖库的版本管理
 date: 2015-09-10 20:00
 tags:
-  - golang
+  - go
   - godep
 ---
 

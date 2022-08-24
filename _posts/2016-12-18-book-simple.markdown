@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 读书笔记之《极简设计》
+title: 产品设计之《极简设计》
 date: 2016-12-18 16:50
 tags:
+  - pm
   - book
 ---
 

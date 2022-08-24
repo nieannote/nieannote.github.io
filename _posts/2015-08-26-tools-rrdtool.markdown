@@ -3,6 +3,7 @@ layout: post
 title: RRDTool实践经验整理
 date: 2015-08-26 18:00
 tags:
+  - tools
   - rrdtool
 ---
 

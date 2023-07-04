@@ -3,8 +3,8 @@ layout: post
 title: 思考框架之《蔡钰批判性思维》
 date: 2023-07-03 19:00
 tags:
-  - book
   - thinking
+  - book
 ---
 
 ## 主要收获
